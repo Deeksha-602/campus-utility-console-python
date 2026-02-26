@@ -11,13 +11,13 @@ A comprehensive command-line Python application demonstrating core to advanced P
 
 ## ✨ Features
 
-- ✅ Interactive Menu Mode  
-- ✅ Command-Line Argument Mode  
-- ✅ Modular Concept-Based Sections  
-- ✅ Logging Support  
-- ✅ Multithreading  
-- ✅ Networking (Socket Programming)  
-- ✅ Data Structures & Algorithms  
+✅ Interactive Menu Mode  
+✅ Command-Line Argument Mode  
+✅ Modular Concept-Based Sections  
+✅ Logging Support  
+✅ Multithreading  
+✅ Networking (Socket Programming)  
+✅ Data Structures & Algorithms  
 
 ---
 
@@ -97,3 +97,23 @@ python main.py
 python main.py --mode quick-calc --op add --a 4 --b 5
 ```
 
+## 🎯 Project Objective
+
+This project demonstrates structured implementation of:
+
+- Core Python
+- OOP
+- Data Structures
+- Algorithms
+- Multithreading
+- Networking
+- File Handling
+- Logging
+- Secure Scripting Practices
+
+## 📌 Future Improvements
+
+- Modular file structure
+- Unit testing integration
+- Configuration file support
+- Docker containerization
