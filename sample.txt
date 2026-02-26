@@ -1,0 +1,5 @@
+Line 1: Python
+Line 2: File Handling
+Line 3: Appended Line
+Added using r+
+Added using a+

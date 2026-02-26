@@ -1,0 +1,8 @@
+{
+    "model": "Civic",
+    "make": "Honda",
+    "variants": [
+        "Sedan",
+        "Coupe"
+    ]
+}
