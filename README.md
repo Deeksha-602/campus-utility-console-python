@@ -83,17 +83,17 @@ A comprehensive command-line Python application demonstrating core to advanced P
 - Info & error logging
 
 ---
-
 ## ▶ How to Run
 
 ### 🔹 Menu Mode
 
 ```bash
 python main.py
+```
 
-Quick Calculation Mode
+### 🔹 Quick Calculation Mode
+
+```bash
 python main.py --mode quick-calc --op add --a 4 --b 5
-
---- 
-
+```
 
