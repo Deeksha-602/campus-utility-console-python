@@ -91,33 +91,9 @@ A comprehensive command-line Python application demonstrating core to advanced P
 ```bash
 python main.py
 
-🔹 Quick Calculation Mode
+Quick Calculation Mode
 python main.py --mode quick-calc --op add --a 4 --b 5
 
 --- 
 
-### 2️⃣ Project Structure  
-Place this **after the How to Run section**.
 
-```md
-## 📁 Project Structure
-
-## 🛠 Technologies Used
-
-- Python 3
-- Standard Library Only
-- No External Packages
-
-## 🎯 Project Objective
-
-This project demonstrates structured implementation of:
-
-- Core Python
-- OOP
-- Data Structures
-- Algorithms
-- Multithreading
-- Networking
-- File Handling
-- Logging
-- Secure Scripting Practices
